@@ -1,2 +1,2 @@
 # WebProject
-He utilitzat aquesta llibreria 'subprocess' per fer un popup
+He utilitzat la llibreria 'subprocess' per fer un popup
